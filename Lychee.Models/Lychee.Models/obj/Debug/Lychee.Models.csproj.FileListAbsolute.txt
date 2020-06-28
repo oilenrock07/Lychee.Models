@@ -1,0 +1,6 @@
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\bin\Debug\Lychee.Models.dll
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\bin\Debug\Lychee.Models.pdb
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\obj\Debug\Lychee.Models.csprojAssemblyReference.cache
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\obj\Debug\Lychee.Models.csproj.CoreCompileInputs.cache
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\obj\Debug\Lychee.Models.dll
+C:\Cawi\DEV\Lychee\Lychee.Models\Lychee.Models\Lychee.Models\obj\Debug\Lychee.Models.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Lychee.Models</id>
+    <version>1.0.0</version>
+    <title>Lychee.Models</title>
+    <authors>Cornelio Cawicaan Jr.</authors>
+    <owners>Cornelio Cawicaan Jr.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Common Models for Lychee Projects. This shouldn't have any dependencies to any other projects</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Lychee Models</tags>
+  </metadata>
+  <files>
+    <file src="bin\debug\Lychee.Models.dll" target="lib\net40" />
+  </files>
+</package>
